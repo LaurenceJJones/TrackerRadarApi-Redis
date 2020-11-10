@@ -5,7 +5,7 @@
 Endpoint: /api/rest Returns a list of name that can be used to search in next endpoints
 
 ```JSON
-  "data": [
+   [
     "\"Agency of investigative reporters\" Company limited",
     "\"Begun\" JSC",
     "\"Buttinette\" Textil-Versandhaus GmbH",
@@ -22,7 +22,7 @@ Endpoint: /api/rest Returns a list of name that can be used to search in next en
 Endpoint: /api/rest/:name Returns information about given :name and domains :name has
 
 ```JSON
-  "data": {
+  {
     "name": "Google LLC",
     "displayName": "Google",
     "properties": [
@@ -47,7 +47,7 @@ Endpoint: /api/rest/:name Returns information about given :name and domains :nam
 Endpoint: /api/rest/:name/domains Returns list of objects that store information about :name domains
 
 ```JSON
-  "data": [
+  [
     {
       "domain": {
         "domain": "0m66lx69dx.com"
@@ -76,7 +76,7 @@ Endpoint: /api/rest/:name/domains Returns list of objects that store information
 Endpoint /api/rest/:name/combine Returns combined information of last two endpoints in one big object
 
 ```JSON
-  "data": {
+  {
     "name": "Google LLC",
     "displayName": "Google",
     "properties": [
