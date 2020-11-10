@@ -1,0 +1,12 @@
+{
+    "name": "netdoktor.at GmbH",
+    "displayName": "netdoktor.at",
+    "properties": [
+        "netdoktor.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

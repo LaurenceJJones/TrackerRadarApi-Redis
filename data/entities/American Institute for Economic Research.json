@@ -1,0 +1,12 @@
+{
+    "name": "American Institute for Economic Research",
+    "displayName": "American Institute for Economic Research",
+    "properties": [
+        "aier.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000735,
+        "nonTracking": 0,
+        "total": 0.00000735
+    }
+}

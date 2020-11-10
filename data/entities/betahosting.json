@@ -1,0 +1,12 @@
+{
+    "name": "betahosting",
+    "displayName": "betahosting",
+    "properties": [
+        "apk-cloud.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000147,
+        "nonTracking": 0,
+        "total": 0.0000147
+    }
+}

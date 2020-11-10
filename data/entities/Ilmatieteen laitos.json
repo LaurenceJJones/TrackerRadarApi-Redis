@@ -1,0 +1,8 @@
+{
+    "name": "Ilmatieteen laitos",
+    "displayName": "Ilmatieteen laitos",
+    "properties": [
+        "fmi.fi",
+        "ilmatieteenlaitos.fi"
+    ]
+}

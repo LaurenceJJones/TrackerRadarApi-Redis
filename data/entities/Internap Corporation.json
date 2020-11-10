@@ -1,0 +1,13 @@
+{
+    "name": "Internap Corporation",
+    "displayName": "Internap",
+    "properties": [
+        "freevidstream.com",
+        "internapcdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.0000835,
+        "total": 0.0000911
+    }
+}

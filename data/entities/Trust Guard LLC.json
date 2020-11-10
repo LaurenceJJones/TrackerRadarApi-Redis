@@ -1,0 +1,12 @@
+{
+    "name": "Trust Guard LLC",
+    "displayName": "Trust Guard",
+    "properties": [
+        "trust-guard.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000121,
+        "nonTracking": 0,
+        "total": 0.000121
+    }
+}

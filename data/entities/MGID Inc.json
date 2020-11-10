@@ -1,0 +1,12 @@
+{
+    "name": "MGID Inc",
+    "displayName": "MGID",
+    "properties": [
+        "mgid.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00522,
+        "nonTracking": 0.0000152,
+        "total": 0.00524
+    }
+}

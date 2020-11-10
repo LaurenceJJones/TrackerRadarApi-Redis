@@ -1,0 +1,22 @@
+{
+    "name": "Odin",
+    "displayName": "Odin",
+    "properties": [
+        "adultxadult.jp",
+        "alertadigital.com",
+        "e-flux-systems.com",
+        "homoeopathiewelt.com",
+        "joostdevree.nl",
+        "kunstler.com",
+        "mamas-rezepte.de",
+        "premiumsale.com",
+        "spiele-kostenlos-online.de",
+        "textem.net",
+        "victorhanson.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

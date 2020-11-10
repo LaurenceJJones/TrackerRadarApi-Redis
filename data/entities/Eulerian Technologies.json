@@ -1,0 +1,14 @@
+{
+    "name": "Eulerian Technologies",
+    "displayName": "Eulerian",
+    "properties": [
+        "eolcdn.com",
+        "eulerian.net",
+        "ew3.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00044,
+        "nonTracking": 0.0000304,
+        "total": 0.00047
+    }
+}

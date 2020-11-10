@@ -1,0 +1,13 @@
+{
+    "name": "Bedigital Corporation",
+    "displayName": "Bedigital",
+    "properties": [
+        "contentsitesrv.com",
+        "siteswithcontent.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00044,
+        "nonTracking": 0,
+        "total": 0.00044
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Transport for NSW",
+    "displayName": "Transport for NSW",
+    "properties": [
+        "opal.com.au",
+        "transportnsw.info"
+    ]
+}

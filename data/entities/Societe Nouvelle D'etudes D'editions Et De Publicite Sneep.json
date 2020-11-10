@@ -1,0 +1,13 @@
+{
+    "name": "Societe Nouvelle D'etudes D'editions Et De Publicite Sneep",
+    "displayName": "Societe Nouvelle D'etudes D'editions Et De Publicite Sneep",
+    "properties": [
+        "auto-evasion.com",
+        "largus.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

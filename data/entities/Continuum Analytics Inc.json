@@ -1,0 +1,9 @@
+{
+    "name": "Continuum Analytics Inc",
+    "displayName": "Continuum Analytics",
+    "properties": [
+        "anaconda.com",
+        "anaconda.org",
+        "conda.io"
+    ]
+}

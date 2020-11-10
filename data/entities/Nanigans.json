@@ -1,0 +1,12 @@
+{
+    "name": "Nanigans",
+    "displayName": "Nanigans",
+    "properties": [
+        "nanigans.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000152,
+        "nonTracking": 0.0000152,
+        "total": 0.000167
+    }
+}

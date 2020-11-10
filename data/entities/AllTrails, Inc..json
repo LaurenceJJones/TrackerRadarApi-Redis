@@ -1,0 +1,12 @@
+{
+    "name": "AllTrails, Inc.",
+    "displayName": "AllTrails",
+    "properties": [
+        "alltrails.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

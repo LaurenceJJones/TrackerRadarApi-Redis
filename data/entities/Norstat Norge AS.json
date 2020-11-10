@@ -1,0 +1,12 @@
+{
+    "name": "Norstat Norge AS",
+    "displayName": "Norstat Norge",
+    "properties": [
+        "norstatsurveys.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.000137,
+        "total": 0.000152
+    }
+}

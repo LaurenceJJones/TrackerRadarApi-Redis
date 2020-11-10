@@ -1,0 +1,14 @@
+{
+    "name": "Propeller Ads",
+    "displayName": "Propeller Ads",
+    "properties": [
+        "propellerads.com",
+        "propellerclick.com",
+        "rtmark.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0023,
+        "nonTracking": 0.000152,
+        "total": 0.00245
+    }
+}

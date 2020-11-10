@@ -1,0 +1,14 @@
+{
+    "name": "Viafoura Inc.",
+    "displayName": "Viafoura",
+    "properties": [
+        "viafoura.co",
+        "viafoura.com",
+        "viafoura.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00143,
+        "nonTracking": 0.00000759,
+        "total": 0.00144
+    }
+}

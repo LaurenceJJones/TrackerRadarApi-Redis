@@ -1,0 +1,12 @@
+{
+    "name": "Pubstack",
+    "displayName": "Pubstack",
+    "properties": [
+        "pubstack.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000425,
+        "nonTracking": 0.00000759,
+        "total": 0.000433
+    }
+}

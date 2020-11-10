@@ -1,0 +1,12 @@
+{
+    "name": "SolarLeadFactory LLC",
+    "displayName": "SolarLeadFactory",
+    "properties": [
+        "solarleadfactory.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000152,
+        "total": 0.0000152
+    }
+}

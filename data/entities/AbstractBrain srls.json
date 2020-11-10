@@ -1,0 +1,12 @@
+{
+    "name": "AbstractBrain srls",
+    "displayName": "AbstractBrain srls",
+    "properties": [
+        "pushpad.xyz"
+    ],
+    "prevalence": {
+        "tracking": 0.00044,
+        "nonTracking": 0,
+        "total": 0.00044
+    }
+}

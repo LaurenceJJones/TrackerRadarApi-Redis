@@ -1,0 +1,13 @@
+{
+    "name": "TELEVISION FRANCAISE 1",
+    "displayName": "TELEVISION FRANCAISE 1",
+    "properties": [
+        "lci.fr",
+        "tf1.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00000759,
+        "total": 0.0000152
+    }
+}

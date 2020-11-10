@@ -1,0 +1,15 @@
+{
+    "name": "Internet Archive",
+    "displayName": "Internet Archive",
+    "properties": [
+        "archive.org",
+        "librivox.org",
+        "openlibrary.org",
+        "waybackmachine.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000607,
+        "nonTracking": 0.000288,
+        "total": 0.000349
+    }
+}

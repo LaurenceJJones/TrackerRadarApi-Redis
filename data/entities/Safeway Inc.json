@@ -1,0 +1,16 @@
+{
+    "name": "Safeway Inc",
+    "displayName": "Safeway",
+    "properties": [
+        "acmemarkets.com",
+        "albertsons.com",
+        "jewelosco.com",
+        "safeway.com",
+        "vons.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.0000152,
+        "total": 0.0000304
+    }
+}

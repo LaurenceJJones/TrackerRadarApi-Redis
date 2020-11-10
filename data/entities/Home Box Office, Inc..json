@@ -1,0 +1,16 @@
+{
+    "name": "Home Box Office, Inc.",
+    "displayName": "Home Box Office",
+    "properties": [
+        "hbo.com",
+        "hboespana.com",
+        "hbogo.com",
+        "hbonordic.com",
+        "hbonow.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000304,
+        "nonTracking": 0,
+        "total": 0.0000304
+    }
+}

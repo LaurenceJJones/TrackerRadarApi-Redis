@@ -1,0 +1,13 @@
+{
+    "name": "A Medium Corporation",
+    "displayName": "Medium",
+    "properties": [
+        "medium.com",
+        "medium.systems"
+    ],
+    "prevalence": {
+        "tracking": 0.00044,
+        "nonTracking": 0,
+        "total": 0.00044
+    }
+}

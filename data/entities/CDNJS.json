@@ -1,0 +1,12 @@
+{
+    "name": "CDNJS",
+    "displayName": "CDNJS",
+    "properties": [
+        "cdnjs.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000129,
+        "nonTracking": 0,
+        "total": 0.000129
+    }
+}

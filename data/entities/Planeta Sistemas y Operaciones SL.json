@@ -1,0 +1,14 @@
+{
+    "name": "Planeta Sistemas y Operaciones SL",
+    "displayName": "Planeta Sistemas y Operaciones",
+    "properties": [
+        "casadellibro.com",
+        "larazon.es",
+        "planetadelibros.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

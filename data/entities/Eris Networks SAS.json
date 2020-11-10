@@ -1,0 +1,13 @@
+{
+    "name": "Eris Networks SAS",
+    "displayName": "Eris Networks",
+    "properties": [
+        "db-ip.com",
+        "ipv6-test.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00066,
+        "nonTracking": 0.0000456,
+        "total": 0.000706
+    }
+}

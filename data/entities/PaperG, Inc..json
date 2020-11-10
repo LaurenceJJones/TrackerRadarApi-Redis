@@ -1,0 +1,13 @@
+{
+    "name": "PaperG, Inc.",
+    "displayName": "PaperG",
+    "properties": [
+        "flyerboard.com",
+        "paperg.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

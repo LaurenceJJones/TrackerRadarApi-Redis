@@ -1,0 +1,11 @@
+{
+    "name": "BoardGameGeek, LLC",
+    "displayName": "BoardGameGeek",
+    "properties": [
+        "boardgamegeek.com",
+        "geekdo-images.com",
+        "geekdo-static.com",
+        "geekdo.com",
+        "rpggeek.com"
+    ]
+}

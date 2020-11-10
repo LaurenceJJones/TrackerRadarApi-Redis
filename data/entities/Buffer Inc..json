@@ -1,0 +1,13 @@
+{
+    "name": "Buffer Inc.",
+    "displayName": "Buffer",
+    "properties": [
+        "buffer.com",
+        "bufferapp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00117,
+        "nonTracking": 0.00000759,
+        "total": 0.00118
+    }
+}

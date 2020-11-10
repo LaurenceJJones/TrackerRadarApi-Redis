@@ -1,0 +1,8 @@
+{
+    "name": "SG MIN AFFAIRES SOC",
+    "displayName": "SG MIN AFFAIRES SOC",
+    "properties": [
+        "solidarites-sante.gouv.fr",
+        "travail-emploi.gouv.fr"
+    ]
+}

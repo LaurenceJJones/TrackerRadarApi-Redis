@@ -1,0 +1,16 @@
+{
+    "name": "Symantec Corporation",
+    "displayName": "Symantec",
+    "properties": [
+        "lifelock.com",
+        "norton.com",
+        "nortoncdn.com",
+        "symantec.com",
+        "symassets.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00169,
+        "nonTracking": 0.000569,
+        "total": 0.00226
+    }
+}

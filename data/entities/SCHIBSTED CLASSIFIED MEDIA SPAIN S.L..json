@@ -1,0 +1,20 @@
+{
+    "name": "SCHIBSTED CLASSIFIED MEDIA SPAIN S.L.",
+    "displayName": "SCHIBSTED CLASSIFIED MEDIA SPAIN",
+    "properties": [
+        "ccdn.es",
+        "coches.net",
+        "dcdn.es",
+        "fotocasa.es",
+        "infojobs.com",
+        "infojobs.it",
+        "infojobs.net",
+        "milanuncios.com",
+        "vibbo.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000735,
+        "total": 0.00000735
+    }
+}

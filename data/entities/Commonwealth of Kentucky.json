@@ -1,0 +1,13 @@
+{
+    "name": "Commonwealth of Kentucky",
+    "displayName": "Commonwealth of Kentucky",
+    "properties": [
+        "kentucky.gov",
+        "ky.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "ZeBestOf",
+    "displayName": "ZeBestOf",
+    "properties": [
+        "zebestof.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000387,
+        "nonTracking": 0.000486,
+        "total": 0.000873
+    }
+}

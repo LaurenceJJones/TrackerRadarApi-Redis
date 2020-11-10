@@ -1,0 +1,26 @@
+{
+    "name": "Toyota Motor Corporation",
+    "displayName": "Toyota Motor",
+    "properties": [
+        "discoverlexus.com",
+        "lexus-europe.com",
+        "lexus.ca",
+        "lexus.com",
+        "scion.ca",
+        "scion.com",
+        "toyota-europe.com",
+        "toyota.ca",
+        "toyota.co.uk",
+        "toyota.com",
+        "toyota.com.au",
+        "toyota.de",
+        "toyota.fr",
+        "toyota.nl",
+        "toyotacanada.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.0000759,
+        "nonTracking": 0,
+        "total": 0.0000759
+    }
+}

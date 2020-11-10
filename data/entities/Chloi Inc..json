@@ -1,0 +1,12 @@
+{
+    "name": "Chloi Inc.",
+    "displayName": "Chloi",
+    "properties": [
+        "surge.sh"
+    ],
+    "prevalence": {
+        "tracking": 0.0000759,
+        "nonTracking": 0,
+        "total": 0.0000759
+    }
+}

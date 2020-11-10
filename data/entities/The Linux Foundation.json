@@ -1,0 +1,14 @@
+{
+    "name": "The Linux Foundation",
+    "displayName": "The Linux Foundation",
+    "properties": [
+        "elinux.org",
+        "hyperledger.org",
+        "kernel.org",
+        "linux.com",
+        "linuxfound.org",
+        "linuxfoundation.org",
+        "prometheus.io",
+        "yoctoproject.org"
+    ]
+}

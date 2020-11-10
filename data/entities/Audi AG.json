@@ -1,0 +1,12 @@
+{
+    "name": "Audi AG",
+    "displayName": "Audi",
+    "properties": [
+        "audi.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

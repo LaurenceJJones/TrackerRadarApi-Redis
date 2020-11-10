@@ -1,0 +1,16 @@
+{
+    "name": "Sports Warehouse",
+    "displayName": "Sports Warehouse",
+    "properties": [
+        "inlinewarehouse.com",
+        "runningwarehouse.com",
+        "skatewarehouse.com",
+        "tacklewarehouse.com",
+        "tennis-warehouse.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

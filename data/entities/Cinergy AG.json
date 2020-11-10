@@ -1,0 +1,13 @@
+{
+    "name": "Cinergy AG",
+    "displayName": "Cinergy",
+    "properties": [
+        "cineman.ch",
+        "cinergy.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Danske Bank A/S",
+    "displayName": "Danske Bank",
+    "properties": [
+        "danskebank.com",
+        "danskebank.dk"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

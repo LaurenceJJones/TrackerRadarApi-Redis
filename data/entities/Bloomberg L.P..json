@@ -1,0 +1,16 @@
+{
+    "name": "Bloomberg L.P.",
+    "displayName": "Bloomberg",
+    "properties": [
+        "bbthat.com",
+        "bloomberg.com",
+        "bloomberght.com",
+        "bloombergquint.com",
+        "bwbx.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

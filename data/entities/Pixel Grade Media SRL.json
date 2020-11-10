@@ -1,0 +1,12 @@
+{
+    "name": "Pixel Grade Media SRL",
+    "displayName": "Pixel Grade Media",
+    "properties": [
+        "pxgcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000228,
+        "nonTracking": 0,
+        "total": 0.0000228
+    }
+}

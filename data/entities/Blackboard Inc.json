@@ -1,0 +1,14 @@
+{
+    "name": "Blackboard Inc",
+    "displayName": "Blackboard",
+    "properties": [
+        "ally.ac",
+        "blackboard.com",
+        "edline.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.000205,
+        "total": 0.000213
+    }
+}

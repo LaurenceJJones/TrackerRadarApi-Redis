@@ -1,0 +1,12 @@
+{
+    "name": "Uploadcare, LLC",
+    "displayName": "Uploadcare",
+    "properties": [
+        "ucarecdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000038,
+        "nonTracking": 0.000182,
+        "total": 0.00022
+    }
+}

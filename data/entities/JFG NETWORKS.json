@@ -1,0 +1,14 @@
+{
+    "name": "JFG NETWORKS",
+    "displayName": "JFG NETWORKS",
+    "properties": [
+        "over-blog-kiwi.com",
+        "over-blog.com",
+        "wikistrike.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000038,
+        "nonTracking": 0.00000759,
+        "total": 0.0000456
+    }
+}

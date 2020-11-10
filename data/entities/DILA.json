@@ -1,0 +1,10 @@
+{
+    "name": "DILA",
+    "displayName": "DILA",
+    "properties": [
+        "dila.gouv.fr",
+        "legifrance.gouv.fr",
+        "service-public.fr",
+        "vie-publique.fr"
+    ]
+}

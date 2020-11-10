@@ -1,0 +1,13 @@
+{
+    "name": "The Financial Times Limited",
+    "displayName": "The Financial Times",
+    "properties": [
+        "ft.com",
+        "polyfill.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000038,
+        "nonTracking": 0.0153,
+        "total": 0.0153
+    }
+}

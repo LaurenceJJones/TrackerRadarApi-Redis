@@ -1,0 +1,12 @@
+{
+    "name": "Motionpoint Corporation",
+    "displayName": "Motionpoint",
+    "properties": [
+        "convertlanguage.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000326,
+        "nonTracking": 0.0000228,
+        "total": 0.000349
+    }
+}

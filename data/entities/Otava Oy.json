@@ -1,0 +1,15 @@
+{
+    "name": "Otava Oy",
+    "displayName": "Otava",
+    "properties": [
+        "anna.fi",
+        "kaksplus.fi",
+        "kuvalehdet.fi",
+        "otavamedia.fi"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.0000152,
+        "total": 0.0000228
+    }
+}

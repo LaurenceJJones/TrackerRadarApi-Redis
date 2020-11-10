@@ -1,0 +1,32 @@
+{
+    "name": "United Internet AG",
+    "displayName": "United Internet",
+    "properties": [
+        "1and1.com",
+        "1and1.fr",
+        "1und1.de",
+        "gmx.at",
+        "gmx.ch",
+        "gmx.com",
+        "gmx.fr",
+        "gmx.net",
+        "ionos.com",
+        "log-in-web.de",
+        "mail.com",
+        "profiseller.de",
+        "sedo.com",
+        "static-1and1.com",
+        "tifbs.net",
+        "ui-portal.com",
+        "ui-portal.de",
+        "uicdn.com",
+        "uicdn.net",
+        "uimserv.net",
+        "web.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000159,
+        "nonTracking": 0.0000228,
+        "total": 0.000182
+    }
+}

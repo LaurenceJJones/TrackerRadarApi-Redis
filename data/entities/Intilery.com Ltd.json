@@ -1,0 +1,12 @@
+{
+    "name": "Intilery.com Ltd",
+    "displayName": "Intilery.com",
+    "properties": [
+        "intilery-analytics.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

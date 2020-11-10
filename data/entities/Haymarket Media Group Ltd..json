@@ -1,0 +1,17 @@
+{
+    "name": "Haymarket Media Group Ltd.",
+    "displayName": "Haymarket Media Group",
+    "properties": [
+        "clinicaladvisor.com",
+        "empr.com",
+        "haymarket.com",
+        "haymarketmedia.com",
+        "mycme.com",
+        "whatcar.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000683,
+        "nonTracking": 0,
+        "total": 0.0000683
+    }
+}

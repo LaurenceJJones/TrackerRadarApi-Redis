@@ -1,0 +1,12 @@
+{
+    "name": "Catamorphic Co.",
+    "displayName": "Catamorphic",
+    "properties": [
+        "launchdarkly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00105,
+        "total": 0.00106
+    }
+}

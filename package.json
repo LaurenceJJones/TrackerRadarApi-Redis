@@ -1,0 +1,18 @@
+{
+  "name": "trackerapi-redis",
+  "version": "1.0.0",
+  "description": "Api based on data from DuckDuckGo tracker radar data",
+  "main": "index.js",
+  "repository": "https://github.com/LaurenceJJones/TrackerRadarApi-Redis",
+  "author": "Loz <laurence.jones@live.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "morgan": "^1.10.0",
+    "redis": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

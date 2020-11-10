@@ -1,0 +1,13 @@
+{
+    "name": "Kasturi & Sons Limited",
+    "displayName": "Kasturi & Sons",
+    "properties": [
+        "thehindu.com",
+        "thehindubusinessline.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000761,
+        "nonTracking": 0,
+        "total": 0.00000761
+    }
+}

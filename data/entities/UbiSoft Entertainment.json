@@ -1,0 +1,14 @@
+{
+    "name": "UbiSoft Entertainment",
+    "displayName": "UbiSoft Entertainment",
+    "properties": [
+        "heroes-online.com",
+        "ubi.com",
+        "ubisoft.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000147,
+        "nonTracking": 0,
+        "total": 0.0000147
+    }
+}

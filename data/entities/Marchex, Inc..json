@@ -1,0 +1,14 @@
+{
+    "name": "Marchex, Inc.",
+    "displayName": "Marchex",
+    "properties": [
+        "calls.net",
+        "industrybrains.com",
+        "marchex.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000903,
+        "nonTracking": 0.0000152,
+        "total": 0.000918
+    }
+}

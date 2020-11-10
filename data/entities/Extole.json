@@ -1,0 +1,13 @@
+{
+    "name": "Extole",
+    "displayName": "Extole",
+    "properties": [
+        "extole.com",
+        "extole.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000858,
+        "nonTracking": 0.000137,
+        "total": 0.000995
+    }
+}

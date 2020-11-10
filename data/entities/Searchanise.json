@@ -1,0 +1,12 @@
+{
+    "name": "Searchanise",
+    "displayName": "Searchanise",
+    "properties": [
+        "searchanise.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00124,
+        "nonTracking": 0.000402,
+        "total": 0.00164
+    }
+}

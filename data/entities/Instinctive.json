@@ -1,0 +1,13 @@
+{
+    "name": "Instinctive",
+    "displayName": "Instinctive",
+    "properties": [
+        "instinctive.io",
+        "instinctiveads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000129,
+        "nonTracking": 0,
+        "total": 0.000129
+    }
+}

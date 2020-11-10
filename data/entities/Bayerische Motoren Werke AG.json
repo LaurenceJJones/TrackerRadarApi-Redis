@@ -1,0 +1,18 @@
+{
+    "name": "Bayerische Motoren Werke AG",
+    "displayName": "Bayerische Motoren Werke",
+    "properties": [
+        "bmw-motorrad.de",
+        "bmw.co.uk",
+        "bmw.com",
+        "bmwgroup.com",
+        "bmwmotorcycles.com",
+        "bmwusa.com",
+        "miniusa.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000304,
+        "nonTracking": 0.0000759,
+        "total": 0.000106
+    }
+}

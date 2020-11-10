@@ -1,0 +1,10 @@
+{
+    "name": "Python Software Foundation",
+    "displayName": "Python Software Foundation",
+    "properties": [
+        "pypa.io",
+        "pypi.org",
+        "python.org",
+        "pythonhosted.org"
+    ]
+}

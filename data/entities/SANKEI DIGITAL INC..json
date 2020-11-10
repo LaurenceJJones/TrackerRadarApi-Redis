@@ -1,0 +1,14 @@
+{
+    "name": "SANKEI DIGITAL INC.",
+    "displayName": "SANKEI DIGITAL",
+    "properties": [
+        "ironna.jp",
+        "sankei.co.jp",
+        "sankei.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.00000759,
+        "total": 0.0000228
+    }
+}

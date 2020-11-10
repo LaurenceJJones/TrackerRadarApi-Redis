@@ -1,0 +1,12 @@
+{
+    "name": "NRJ GROUP",
+    "displayName": "NRJ GROUP",
+    "properties": [
+        "nrj.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000304,
+        "nonTracking": 0,
+        "total": 0.000304
+    }
+}

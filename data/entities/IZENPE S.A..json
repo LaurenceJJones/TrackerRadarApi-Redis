@@ -1,0 +1,13 @@
+{
+    "name": "IZENPE S.A.",
+    "displayName": "IZENPE",
+    "properties": [
+        "enamad.ir",
+        "farsnews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.0000304,
+        "total": 0.0000456
+    }
+}

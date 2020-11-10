@@ -1,0 +1,26 @@
+{
+    "name": "Automattic, Inc.",
+    "displayName": "Automattic",
+    "properties": [
+        "cldup.com",
+        "cloudup.com",
+        "gravatar.com",
+        "intensedebate.com",
+        "mongoosejs.com",
+        "polldaddy.com",
+        "pubmine.com",
+        "pubpress.net",
+        "simplenote.com",
+        "tumblr.com",
+        "videopress.com",
+        "woocommerce.com",
+        "wordpress.com",
+        "wordpress.tv",
+        "wp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0233,
+        "nonTracking": 0.0317,
+        "total": 0.055
+    }
+}

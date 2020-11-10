@@ -1,0 +1,12 @@
+{
+    "name": "UAB Admobi",
+    "displayName": "Admobi",
+    "properties": [
+        "adtarget.me"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

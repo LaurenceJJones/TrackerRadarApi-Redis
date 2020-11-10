@@ -1,0 +1,12 @@
+{
+    "name": "The Daily Beast Company LLC",
+    "displayName": "The Daily Beast Company",
+    "properties": [
+        "thedailybeast.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

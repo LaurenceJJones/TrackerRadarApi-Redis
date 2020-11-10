@@ -1,0 +1,9 @@
+{
+    "name": "SmartBear Software, Inc",
+    "displayName": "SmartBear Software",
+    "properties": [
+        "smartbear.com",
+        "soapui.org",
+        "swagger.io"
+    ]
+}

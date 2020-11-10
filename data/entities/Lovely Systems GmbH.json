@@ -1,0 +1,13 @@
+{
+    "name": "Lovely Systems GmbH",
+    "displayName": "Lovely Systems",
+    "properties": [
+        "az-cdn.ch",
+        "lovely-cdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000456,
+        "nonTracking": 0,
+        "total": 0.0000456
+    }
+}

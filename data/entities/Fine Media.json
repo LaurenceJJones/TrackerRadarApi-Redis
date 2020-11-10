@@ -1,0 +1,14 @@
+{
+    "name": "Fine Media",
+    "displayName": "Fine Media",
+    "properties": [
+        "commentfaiton.com",
+        "ooreka-static.fr",
+        "ooreka.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0.000101,
+        "total": 0.000202
+    }
+}

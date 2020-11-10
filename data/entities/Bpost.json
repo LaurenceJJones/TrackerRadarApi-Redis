@@ -1,0 +1,12 @@
+{
+    "name": "Bpost",
+    "displayName": "Bpost",
+    "properties": [
+        "bpost.be"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

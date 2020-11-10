@@ -1,0 +1,12 @@
+{
+    "name": "mParticle, inc",
+    "displayName": "mParticle",
+    "properties": [
+        "mparticle.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000995,
+        "nonTracking": 0.000349,
+        "total": 0.00134
+    }
+}

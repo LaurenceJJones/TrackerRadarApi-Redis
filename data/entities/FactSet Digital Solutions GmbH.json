@@ -1,0 +1,13 @@
+{
+    "name": "FactSet Digital Solutions GmbH",
+    "displayName": "FactSet Digital Solutions",
+    "properties": [
+        "is-teledata.com",
+        "mdgms.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.000038,
+        "total": 0.0000456
+    }
+}

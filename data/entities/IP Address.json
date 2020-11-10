@@ -1,0 +1,7 @@
+{
+    "name": "IP Address",
+    "displayName": "IP Address",
+    "properties": [
+        "ipaddress.is"
+    ]
+}

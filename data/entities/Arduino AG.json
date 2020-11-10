@@ -1,0 +1,7 @@
+{
+    "name": "Arduino AG",
+    "displayName": "Arduino",
+    "properties": [
+        "arduino.cc"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "123multimedia",
+    "displayName": "123multimedia",
+    "properties": [
+        "123multimedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "SK Communications Co., Ltd.",
+    "displayName": "SK Communications",
+    "properties": [
+        "nate.com",
+        "nateimg.co.kr",
+        "pann.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000304,
+        "nonTracking": 0,
+        "total": 0.0000304
+    }
+}

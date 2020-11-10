@@ -1,0 +1,13 @@
+{
+    "name": "Plaid Inc",
+    "displayName": "Plaid",
+    "properties": [
+        "karte.io",
+        "plaid.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000334,
+        "nonTracking": 0.000106,
+        "total": 0.00044
+    }
+}

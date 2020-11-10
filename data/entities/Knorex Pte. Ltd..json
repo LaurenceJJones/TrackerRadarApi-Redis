@@ -1,0 +1,12 @@
+{
+    "name": "Knorex Pte. Ltd.",
+    "displayName": "Knorex",
+    "properties": [
+        "brand-display.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0106,
+        "nonTracking": 0.000843,
+        "total": 0.0114
+    }
+}

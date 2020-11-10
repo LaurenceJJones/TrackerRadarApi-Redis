@@ -1,0 +1,13 @@
+{
+    "name": "Opentracker",
+    "displayName": "Opentracker",
+    "properties": [
+        "leadboxer.com",
+        "opentracker.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000607,
+        "nonTracking": 0.0000456,
+        "total": 0.000106
+    }
+}

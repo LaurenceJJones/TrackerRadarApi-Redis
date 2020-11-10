@@ -1,0 +1,13 @@
+{
+    "name": "OneTrust LLC",
+    "displayName": "OneTrust",
+    "properties": [
+        "cookielaw.org",
+        "onetrust.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0322,
+        "nonTracking": 0.00000759,
+        "total": 0.0322
+    }
+}

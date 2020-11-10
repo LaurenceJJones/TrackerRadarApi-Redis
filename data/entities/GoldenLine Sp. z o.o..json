@@ -1,0 +1,12 @@
+{
+    "name": "GoldenLine Sp. z o.o.",
+    "displayName": "GoldenLine",
+    "properties": [
+        "goldenline.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Yet Another Society",
+    "displayName": "Yet Another Society",
+    "properties": [
+        "metacpan.org",
+        "perlmonks.com",
+        "perlmonks.net",
+        "perlmonks.org"
+    ]
+}

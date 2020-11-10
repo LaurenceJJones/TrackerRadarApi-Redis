@@ -1,0 +1,7 @@
+{
+    "name": "OWASP Foundation",
+    "displayName": "OWASP Foundation",
+    "properties": [
+        "owasp.org"
+    ]
+}

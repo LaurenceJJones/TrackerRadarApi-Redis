@@ -1,0 +1,17 @@
+{
+    "name": "Vimeo, LLC",
+    "displayName": "Vimeo",
+    "properties": [
+        "livestream.com",
+        "vhx.tv",
+        "vimeo.com",
+        "vimeo.tv",
+        "vimeocdn.com",
+        "vimeopro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00517,
+        "nonTracking": 0.00337,
+        "total": 0.00854
+    }
+}

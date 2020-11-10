@@ -1,0 +1,12 @@
+{
+    "name": "Savills Plc",
+    "displayName": "Savills",
+    "properties": [
+        "savills.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00000759,
+        "total": 0.0000152
+    }
+}

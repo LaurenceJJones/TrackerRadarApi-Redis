@@ -1,0 +1,13 @@
+{
+    "name": "TrustArc Inc.",
+    "displayName": "TrustArc",
+    "properties": [
+        "trustarc.com",
+        "truste.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00909,
+        "nonTracking": 0.00183,
+        "total": 0.0109
+    }
+}

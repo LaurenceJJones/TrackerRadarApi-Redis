@@ -1,0 +1,12 @@
+{
+    "name": "Springbot",
+    "displayName": "Springbot",
+    "properties": [
+        "springbot.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0.0000759,
+        "total": 0.0000911
+    }
+}

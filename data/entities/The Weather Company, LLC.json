@@ -1,0 +1,13 @@
+{
+    "name": "The Weather Company, LLC",
+    "displayName": "The Weather Company",
+    "properties": [
+        "theweather.com.au",
+        "wfxtriggers.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.000144,
+        "total": 0.000152
+    }
+}

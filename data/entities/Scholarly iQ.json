@@ -1,0 +1,12 @@
+{
+    "name": "Scholarly iQ",
+    "displayName": "Scholarly iQ",
+    "properties": [
+        "scholarlyiq.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000607,
+        "nonTracking": 0.0000531,
+        "total": 0.000114
+    }
+}

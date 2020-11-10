@@ -1,0 +1,12 @@
+{
+    "name": "Lotto24 AG",
+    "displayName": "Lotto24",
+    "properties": [
+        "lotto24.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

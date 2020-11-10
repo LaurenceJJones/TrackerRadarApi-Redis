@@ -1,0 +1,12 @@
+{
+    "name": "Nordic Cinema Group Holding AB",
+    "displayName": "Nordic Cinema Group Holding",
+    "properties": [
+        "cinema-api.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

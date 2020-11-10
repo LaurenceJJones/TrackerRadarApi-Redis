@@ -1,0 +1,12 @@
+{
+    "name": "VGZ Zorgverzekeraar N.V.",
+    "displayName": "VGZ Zorgverzekeraar",
+    "properties": [
+        "vgz.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

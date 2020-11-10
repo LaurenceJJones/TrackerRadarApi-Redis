@@ -1,0 +1,12 @@
+{
+    "name": "ilMeteo srl",
+    "displayName": "ilMeteo",
+    "properties": [
+        "ilmeteo.it"
+    ],
+    "prevalence": {
+        "tracking": 0.0000228,
+        "nonTracking": 0,
+        "total": 0.0000228
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Segment.io, Inc.",
+    "displayName": "Segment.io",
+    "properties": [
+        "segment.com",
+        "segment.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00668,
+        "nonTracking": 0.00215,
+        "total": 0.00883
+    }
+}

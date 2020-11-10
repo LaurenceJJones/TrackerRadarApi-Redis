@@ -1,0 +1,12 @@
+{
+    "name": "iSpot.tv",
+    "displayName": "iSpot.tv",
+    "properties": [
+        "ispot.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.0053,
+        "nonTracking": 0.0000152,
+        "total": 0.00532
+    }
+}

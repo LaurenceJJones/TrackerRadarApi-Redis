@@ -1,0 +1,12 @@
+{
+    "name": "LiveNetLife International d.o.o.",
+    "displayName": "LiveNetLife International",
+    "properties": [
+        "livenetlife.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000531,
+        "nonTracking": 0.00000759,
+        "total": 0.0000607
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "1stdibs.com",
+    "displayName": "1stdibs.com",
+    "properties": [
+        "1stdibs.com",
+        "1stdibscdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

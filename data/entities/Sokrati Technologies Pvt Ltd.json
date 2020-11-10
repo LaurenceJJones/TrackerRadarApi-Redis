@@ -1,0 +1,12 @@
+{
+    "name": "Sokrati Technologies Pvt Ltd",
+    "displayName": "Sokrati",
+    "properties": [
+        "sokrati.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000038,
+        "nonTracking": 0.00000759,
+        "total": 0.0000456
+    }
+}

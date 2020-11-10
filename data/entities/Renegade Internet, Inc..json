@@ -1,0 +1,12 @@
+{
+    "name": "Renegade Internet, Inc.",
+    "displayName": "Renegade Internet",
+    "properties": [
+        "advertserve.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000372,
+        "nonTracking": 0.0000228,
+        "total": 0.000395
+    }
+}

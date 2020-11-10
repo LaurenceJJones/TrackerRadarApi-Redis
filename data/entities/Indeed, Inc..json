@@ -1,0 +1,21 @@
+{
+    "name": "Indeed, Inc.",
+    "displayName": "Indeed",
+    "properties": [
+        "indeed.ca",
+        "indeed.ch",
+        "indeed.co.in",
+        "indeed.co.uk",
+        "indeed.co.za",
+        "indeed.com",
+        "indeed.es",
+        "indeed.fr",
+        "indeed.jobs",
+        "indeed.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000235,
+        "nonTracking": 0.0000152,
+        "total": 0.00025
+    }
+}

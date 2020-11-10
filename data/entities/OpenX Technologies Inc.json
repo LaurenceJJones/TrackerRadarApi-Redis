@@ -1,0 +1,22 @@
+{
+    "name": "OpenX Technologies Inc",
+    "displayName": "OpenX",
+    "properties": [
+        "deliverimp.com",
+        "godengo.com",
+        "jump-time.net",
+        "mezzobit.com",
+        "openx.com",
+        "openx.net",
+        "openx.org",
+        "openxadexchange.com",
+        "pixfuture.net",
+        "pubnation.com",
+        "servedbyopenx.com"
+    ],
+    "prevalence": {
+        "tracking": 0.177,
+        "nonTracking": 0.000615,
+        "total": 0.178
+    }
+}

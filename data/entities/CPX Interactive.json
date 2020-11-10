@@ -1,0 +1,15 @@
+{
+    "name": "CPX Interactive",
+    "displayName": "CPX Interactive",
+    "properties": [
+        "adready.com",
+        "celebuzz.com",
+        "consumedmedia.com",
+        "pressroomvip.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000304,
+        "nonTracking": 0,
+        "total": 0.000304
+    }
+}

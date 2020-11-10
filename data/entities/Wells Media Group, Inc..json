@@ -1,0 +1,13 @@
+{
+    "name": "Wells Media Group, Inc.",
+    "displayName": "Wells Media Group",
+    "properties": [
+        "insurancejournal.com",
+        "wellsmedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

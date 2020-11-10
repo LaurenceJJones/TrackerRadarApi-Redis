@@ -1,0 +1,22 @@
+{
+    "name": "Vodafone Group Services Limited",
+    "displayName": "Vodafone Group Services",
+    "properties": [
+        "arcor.de",
+        "lowi.es",
+        "vodafone.co.nz",
+        "vodafone.co.uk",
+        "vodafone.com",
+        "vodafone.com.tr",
+        "vodafone.es",
+        "vodafone.in",
+        "vodafone.it",
+        "vodafone.nl",
+        "voxi.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0000456,
+        "nonTracking": 0.000038,
+        "total": 0.0000836
+    }
+}

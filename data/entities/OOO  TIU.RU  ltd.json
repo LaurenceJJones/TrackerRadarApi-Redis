@@ -1,0 +1,12 @@
+{
+    "name": "OOO  TIU.RU  ltd",
+    "displayName": "TIU.RU",
+    "properties": [
+        "prom.st"
+    ],
+    "prevalence": {
+        "tracking": 0.0000835,
+        "nonTracking": 0.0000228,
+        "total": 0.000106
+    }
+}

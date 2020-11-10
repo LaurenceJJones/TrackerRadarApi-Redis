@@ -1,0 +1,12 @@
+{
+    "name": "Insticator",
+    "displayName": "Insticator",
+    "properties": [
+        "insticator.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00149,
+        "nonTracking": 0,
+        "total": 0.00149
+    }
+}

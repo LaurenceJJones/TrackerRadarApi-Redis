@@ -1,0 +1,13 @@
+{
+    "name": "Foundation for a Drug-Free World",
+    "displayName": "Foundation for a Drug-Free World",
+    "properties": [
+        "drugfreeworld.org",
+        "ondemandhosting.info"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000228,
+        "total": 0.0000228
+    }
+}

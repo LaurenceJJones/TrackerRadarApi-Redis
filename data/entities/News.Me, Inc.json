@@ -1,0 +1,12 @@
+{
+    "name": "News.Me, Inc",
+    "displayName": "News.Me",
+    "properties": [
+        "digg.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.0000456,
+        "total": 0.0000532
+    }
+}

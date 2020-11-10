@@ -1,0 +1,12 @@
+{
+    "name": "SCTR Services LLC",
+    "displayName": "SCTR Services",
+    "properties": [
+        "itsup.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000456,
+        "nonTracking": 0.000167,
+        "total": 0.000213
+    }
+}

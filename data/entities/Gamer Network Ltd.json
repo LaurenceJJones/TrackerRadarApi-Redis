@@ -1,0 +1,19 @@
+{
+    "name": "Gamer Network Ltd",
+    "displayName": "Gamer Network",
+    "properties": [
+        "eurogamer.net",
+        "gamer-network.net",
+        "gamesindustry.biz",
+        "metabomb.net",
+        "rockpapershotgun.com",
+        "usgamer.net",
+        "vg247.com",
+        "vrfocus.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.000038,
+        "total": 0.0000456
+    }
+}

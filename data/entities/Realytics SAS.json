@@ -1,0 +1,13 @@
+{
+    "name": "Realytics SAS",
+    "displayName": "Realytics",
+    "properties": [
+        "realytics.io",
+        "realytics.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000175,
+        "nonTracking": 0.0000228,
+        "total": 0.000198
+    }
+}
