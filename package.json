@@ -4,7 +4,7 @@
   "description": "Api based on data from DuckDuckGo tracker radar data",
   "main": "index.js",
   "repository": "https://github.com/LaurenceJJones/TrackerRadarApi-Redis",
-  "author": "Loz <laurence.jones@live.co.uk>",
+  "author": "Loz <me@laurencejones.dev>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
