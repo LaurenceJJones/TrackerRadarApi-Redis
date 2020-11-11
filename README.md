@@ -4,6 +4,7 @@
 <br>
 ### Full Atrribution For The Source Data Goes To DuckDuckGo [#Link](https://github.com/duckduckgo/tracker-radar)
 <br>
+
 ## REST Example Data
 
 Endpoint: /api/rest Returns a list of name that can be used to search in next endpoints
