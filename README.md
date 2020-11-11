@@ -1,5 +1,9 @@
 # TrackerRadarApi-Redis
-:boom: TrackerRadar REST Api With Redis DB :boom:<br><br>
+:boom: TrackerRadar REST Api based on DuckDuckGo Tracker-Radar With Redis DB :boom:
+<br>
+<br>
+### Full Atrribution For The Source Data Goes To DuckDuckGo [#Link](https://github.com/duckduckgo/tracker-radar)
+<br>
 ## REST Example Data
 
 Endpoint: /api/rest Returns a list of name that can be used to search in next endpoints
